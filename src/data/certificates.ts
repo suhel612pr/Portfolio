@@ -61,4 +61,13 @@ export const certificates: Certificate[] = [
       "Oracle Learning Explorer badge covering Oracle's managed MySQL Database Service.",
     image: "/certificates/oracle-mysql-database-service-badge.png",
   },
+  {
+    id: 6,
+    title: "freeCodeCamp JavaScript Certification",
+    issuer: "freeCodeCamp",
+    date: "04/July/2026",
+    description:
+      "Certificate for completing the JavaScript course on freeCodeCamp.",
+    image: "/certificates/freecodecamp-javascript-certificate.jpg",
+  },
 ];
