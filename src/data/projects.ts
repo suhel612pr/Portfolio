@@ -20,7 +20,7 @@ export const projects: Project[] = [
       "An e-commerce storefront for a jersey shop: product browsing, filtering, a cart, and checkout flow, with cart state kept in local storage so it survives a refresh.",
     tags: ["React", "HTML5", "CSS3", "Local Storage", "Responsive Design"],
     github: "https://github.com/suhel612pr/Jersey-Kingdom",
-    live: "https://suhel612pr.github.io/Jersey-Kingdom/",
+    live: "https://jersey-kingdom.vercel.app/",
     featured: true,
   },
   {
